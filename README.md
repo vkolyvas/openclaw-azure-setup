@@ -1,17 +1,17 @@
-# 🚀 OpenClaw VPS Setup Guide
+# OpenClaw VPS Setup Guide
 
-> **🎁 Special Offer:** Get 10% off MiniMax coding plan using this referral link: https://platform.minimax.io/subscribe/coding-plan?code=5eJqeeb1XH&source=link
+> **Special Offer:** Get 10% off MiniMax coding plan using this referral link: https://platform.minimax.io/subscribe/coding-plan?code=5eJqeeb1XH&source=link
 
-A comprehensive guide to deploying **OpenClaw** — your AI-powered coding assistant — on an Azure VPS with full Telegram, WhatsApp, Discord integration and GitHub access.
+A comprehensive guide to deploying **OpenClaw** - your AI-powered coding assistant - on an Azure VPS with full Telegram, WhatsApp, Discord integration and GitHub access.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-### 🚀 Quick Start
-- [STEPS.md](guide-steps/STEPS.md) — Copy & run all commands
+### Quick Start
+- [STEPS.md](guide-steps/STEPS.md) - Copy and run all commands
 
-### 📦 Step-by-Step Guide
+### Step-by-Step Guide
 
 All step-by-step instructions are in the [`guide-steps/`](guide-steps/) folder:
 
@@ -33,37 +33,37 @@ All step-by-step instructions are in the [`guide-steps/`](guide-steps/) folder:
 | [guide-steps/14-HOMEBREW.md](guide-steps/14-HOMEBREW.md) | Optional: Install Homebrew |
 | [guide-steps/15-AZURE-AI-FOUNDRY.md](guide-steps/15-AZURE-AI-FOUNDRY.md) | Azure AI Foundry API setup |
 
-### 📚 Additional Resources
-- [PROJECT-IDEAS.md](PROJECT-IDEAS.md) — 10 POC project ideas for TDD
-- [TROUBLESHOOTING.md](TROUBLESHOOTING.md) — Common issues & solutions
+### Additional Resources
+- [PROJECT-IDEAS.md](PROJECT-IDEAS.md) - 10 POC project ideas for TDD
+- [TROUBLESHOOTING.md](TROUBLESHOOTING.md) - Common issues and solutions
 
 ---
 
-## 🎯 Overview
+## Overview
 
 OpenClaw is an open-source AI gateway that connects multiple AI coding agents to your messaging platforms (Telegram, WhatsApp, Discord). This guide walks you through deploying it on an Azure VPS with full configuration.
 
 **Key Features:**
-- 🤖 Multi-agent AI support
-- 💬 Telegram, WhatsApp, Discord integration
-- 🔧 GitHub CLI integration
-- 🐳 Docker container management
-- 🔐 Secure authentication
-- 🌐 Remote access via SSH tunnel
+- Multi-agent AI support
+- Telegram, WhatsApp, Discord integration
+- GitHub CLI integration
+- Docker container management
+- Secure authentication
+- Remote access via SSH tunnel
 
 ---
 
-## ⚡ Why This Guide?
+## Why This Guide?
 
 This guide is designed for **power users** who want to:
-- 🚀 **Spin up multiple local projects** simultaneously for POC development
-- 🐳 **Run numerous Docker containers** at the same time
-- 💾 **Keep all development environments active** for rapid iteration
-- 🤖 **Run multiple AI agents** in parallel
+- **Spin up multiple local projects** simultaneously for POC development
+- **Run numerous Docker containers** at the same time
+- **Keep all development environments active** for rapid iteration
+- **Run multiple AI agents** in parallel
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |----------|------------|
@@ -75,27 +75,23 @@ This guide is designed for **power users** who want to:
 
 ---
 
-## 📦 What's Included
+## What's Included
 
-1. **Complete installation commands** — Copy & paste ready
-2. **MiniMax M2.1 integration** — Perfect for multi-coding
-3. **Azure AI Foundry setup** — Opus 4.6 and Kimi K2.5 models
-4. **Channel pairing guides** — Telegram, WhatsApp, Discord
-5. **AI model configuration** — Optimal settings for coding + reasoning
-6. **10 project ideas** — For TDD development workflow
-
----
-
-## 🚀 Quick Start
-
-Copy and run all commands from [guide-steps/STEPS.md](guide-steps/STEPS.md) — Includes steps 1-15 with one-click copy blocks.
+1. **Complete installation commands** - Copy and paste ready
+2. **MiniMax M2.1 integration** - Perfect for multi-coding
+3. **Azure AI Foundry setup** - Opus 4.6 and Kimi K2.5 models
+4. **Channel pairing guides** - Telegram, WhatsApp, Discord
+5. **AI model configuration** - Optimal settings for coding + reasoning
+6. **10 project ideas** - For TDD development workflow
 
 ---
 
-## 📞 Support
+## Quick Start
+
+Copy and run all commands from [guide-steps/STEPS.md](guide-steps/STEPS.md) - Includes steps 1-15 with one-click copy blocks.
+
+---
+
+## Support
 
 - [OpenClaw Documentation](https://docs.openclaw.ai/)
-
----
-
-**Built with ❤️ using OpenClaw**
