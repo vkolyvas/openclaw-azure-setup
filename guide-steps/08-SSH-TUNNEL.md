@@ -1,4 +1,4 @@
-# 8⃣ SSH Tunnel (Remote Access)
+# 8 SSH Tunnel (Remote Access) 
 
 Set up secure tunnel to access OpenClaw from your local machine.
 
