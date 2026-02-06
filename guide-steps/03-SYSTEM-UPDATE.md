@@ -1,10 +1,10 @@
-# 3️⃣ Update System Packages
+# 3⃣ Update System Packages
 
 Update Ubuntu packages and install required dependencies.
 
 ---
 
-## 📦 Commands
+##  Commands
 
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install -y apt-transport-https ca-certificates curl gnupg lsb-release
@@ -12,7 +12,7 @@ sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install -y apt-tr
 
 ---
 
-## 🔍 What This Does
+##  What This Does
 
 | Command | Purpose |
 |---------|---------|
@@ -22,7 +22,7 @@ sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get install -y apt-tr
 
 ---
 
-## ✅ Expected Output
+##  Expected Output
 
 ```
 Reading package lists... Done
@@ -34,7 +34,7 @@ Calculating upgrade... Done
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Slow Updates
 
@@ -55,8 +55,8 @@ sudo apt-get update
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
 Once complete, proceed to:
 
-**[04-DOCKER.md](04-DOCKER.md)** — Install Docker Engine
+**[04-DOCKER.md](04-DOCKER.md)** - Install Docker Engine

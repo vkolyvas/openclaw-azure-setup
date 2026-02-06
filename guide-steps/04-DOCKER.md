@@ -1,10 +1,10 @@
-# 4️⃣ Install Docker
+# 4⃣ Install Docker
 
 Install Docker Engine, CLI, containerd, and Docker Compose plugins.
 
 ---
 
-## 📦 Commands
+##  Commands
 
 ```bash
 # Add Docker's official GPG key and repository
@@ -22,7 +22,7 @@ sudo usermod -aG docker $USER
 
 ---
 
-## 🔍 What This Does
+##  What This Does
 
 | Step | Purpose |
 |------|---------|
@@ -37,7 +37,7 @@ sudo usermod -aG docker $USER
 
 ---
 
-## ✅ Verify Installation
+##  Verify Installation
 
 ```bash
 docker --version
@@ -54,7 +54,7 @@ Hello from Docker!
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Group Membership Not Active
 
@@ -72,6 +72,6 @@ sudo systemctl start docker
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[05-SECURITY-UPDATES.md](05-SECURITY-UPDATES.md)** — Configure automatic security updates
+**[05-SECURITY-UPDATES.md](05-SECURITY-UPDATES.md)** - Configure automatic security updates

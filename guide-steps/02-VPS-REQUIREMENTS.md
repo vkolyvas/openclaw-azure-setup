@@ -1,10 +1,10 @@
-# 2️⃣ VPS Requirements
+# 2⃣ VPS Requirements
 
 Azure VM specifications optimized for running multiple AI projects and Docker containers simultaneously.
 
 ---
 
-## ⚙️ Recommended Configuration
+## ⚙ Recommended Configuration
 
 | Resource | Specification |
 |----------|---------------|
@@ -16,20 +16,20 @@ Azure VM specifications optimized for running multiple AI projects and Docker co
 
 ---
 
-## 🎯 Why This Configuration?
+##  Why This Configuration?
 
 ### Heavy Workload Requirements
 
 This VPS is designed for **power users** who need to:
 
-- 🚀 **Spin up multiple local projects** simultaneously for POC development
-- 🐳 **Run numerous Docker containers** at the same time
-- 💾 **Keep all development environments active** for rapid iteration
-- 🤖 **Run multiple AI agents** in parallel
+-  **Spin up multiple local projects** simultaneously for POC development
+-  **Run numerous Docker containers** at the same time
+-  **Keep all development environments active** for rapid iteration
+-  **Run multiple AI agents** in parallel
 
 ---
 
-## 📊 Resource Allocation
+##  Resource Allocation
 
 With **36 GB RAM**, you can comfortably run:
 
@@ -53,7 +53,7 @@ With **36 GB RAM**, you can comfortably run:
 
 ---
 
-## 🔧 Create Azure VM
+##  Create Azure VM
 
 1. Go to [Azure Portal](https://portal.azure.com)
 2. Click **Create** → **Virtual Machine**
@@ -65,7 +65,7 @@ With **36 GB RAM**, you can comfortably run:
 
 ---
 
-## 📈 Scaling Options
+##  Scaling Options
 
 | Workload Type | Recommended RAM |
 |---------------|----------------|
@@ -73,7 +73,7 @@ With **36 GB RAM**, you can comfortably run:
 | 10 Medium Projects | 32 GB |
 | 10 Heavy Projects (ML/AI) | 64 GB+ |
 
-> 💡 **Pro Tip:** Start with Standard_E6as_v6 (36 GB) and scale up based on your needs.
+>  **Pro Tip:** Start with Standard_E6as_v6 (36 GB) and scale up based on your needs.
 
 ---
 

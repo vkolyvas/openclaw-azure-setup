@@ -1,10 +1,10 @@
-# 1️⃣4️⃣ Homebrew Installation (Optional)
+# 1⃣4⃣ Homebrew Installation (Optional)
 
 Install Homebrew for additional development tools on Linux.
 
 ---
 
-## 📦 Installation Command
+##  Installation Command
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -12,7 +12,7 @@ Install Homebrew for additional development tools on Linux.
 
 ---
 
-## 🔍 What This Does
+##  What This Does
 
 | Feature | Purpose |
 |---------|---------|
@@ -22,7 +22,7 @@ Install Homebrew for additional development tools on Linux.
 
 ---
 
-## ✅ Verify Installation
+##  Verify Installation
 
 ```bash
 brew --version
@@ -31,7 +31,7 @@ brew doctor
 
 ---
 
-## 📦 Useful Brew Packages
+##  Useful Brew Packages
 
 ```bash
 # Install useful tools
@@ -48,7 +48,7 @@ brew install fd
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Installation Fails
 
@@ -74,9 +74,9 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 ---
 
-## 🎯 What's Next?
+##  What's Next?
 
-✅ **Setup Complete!** You're ready to use OpenClaw.
+ **Setup Complete!** You're ready to use OpenClaw.
 
 **Next:** [12-TESTING.md](12-TESTING.md) to verify everything works
 

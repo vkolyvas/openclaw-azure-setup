@@ -1,10 +1,10 @@
-# 5️⃣ Configure Automatic Security Updates
+# 5⃣ Configure Automatic Security Updates
 
 Set up unattended upgrades for automatic security patching.
 
 ---
 
-## 📦 Commands
+##  Commands
 
 ```bash
 sudo apt update && sudo apt install unattended-upgrades -y
@@ -13,7 +13,7 @@ sudo dpkg-reconfigure -plow unattended-upgrades
 
 ---
 
-## 🔍 What This Does
+##  What This Does
 
 | Command | Purpose |
 |---------|---------|
@@ -23,7 +23,7 @@ sudo dpkg-reconfigure -plow unattended-upgrades
 
 ---
 
-## ✅ Verify Configuration
+##  Verify Configuration
 
 ```bash
 sudo cat /etc/apt/apt.conf.d/50unattended-upgrades
@@ -41,7 +41,7 @@ Unattended-Upgrade::Allowed-Origins {
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Configuration Not Applied
 
@@ -58,6 +58,6 @@ sudo unattended-upgrades --dry-run --debug
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[06-OPENCLAW-INSTALL.md](06-OPENCLAW-INSTALL.md)** — Install OpenClaw
+**[06-OPENCLAW-INSTALL.md](06-OPENCLAW-INSTALL.md)** - Install OpenClaw

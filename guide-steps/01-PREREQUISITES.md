@@ -1,10 +1,10 @@
-# 1️⃣ Prerequisites
+# 1⃣ Prerequisites
 
 Before starting, ensure you have all accounts and access ready.
 
 ---
 
-## 💻 Required Accounts
+##  Required Accounts
 
 | Account | Purpose | Sign Up |
 |---------|---------|---------|
@@ -16,7 +16,7 @@ Before starting, ensure you have all accounts and access ready.
 
 ---
 
-## 🔑 API Keys Needed
+##  API Keys Needed
 
 ### MiniMax (Recommended for Coding)
 
@@ -25,7 +25,7 @@ Before starting, ensure you have all accounts and access ready.
 3. Generate API key
 4. Copy and store securely
 
-**🎁 Use this referral link for 10% OFF:**
+** Use this referral link for 10% OFF:**
 > https://platform.minimax.io/subscribe/coding-plan?code=5eJqeeb1XH&source=link
 
 ### OpenAI (For Advanced Reasoning)
@@ -42,7 +42,7 @@ Before starting, ensure you have all accounts and access ready.
 
 ---
 
-## 🔧 Tools Required
+##  Tools Required
 
 | Tool | Purpose | Install |
 |------|---------|---------|
@@ -51,7 +51,7 @@ Before starting, ensure you have all accounts and access ready.
 
 ---
 
-## 📋 Pre-Installation Checklist
+##  Pre-Installation Checklist
 
 - [ ] Azure account with billing enabled
 - [ ] VPS created (see [02-VPS-REQUIREMENTS.md](02-VPS-REQUIREMENTS.md))
@@ -61,14 +61,14 @@ Before starting, ensure you have all accounts and access ready.
 
 ---
 
-## 🎯 Next Steps
+##  Next Steps
 
 Once you have all prerequisites ready:
 
-1. [03-SYSTEM-UPDATE.md](03-SYSTEM-UPDATE.md) — Update system packages
-2. [04-DOCKER.md](04-DOCKER.md) — Install Docker
-3. [05-SECURITY-UPDATES.md](05-SECURITY-UPDATES.md) — Configure security
-4. [06-OPENCLAW-INSTALL.md](06-OPENCLAW-INSTALL.md) — Install OpenClaw
+1. [03-SYSTEM-UPDATE.md](03-SYSTEM-UPDATE.md) - Update system packages
+2. [04-DOCKER.md](04-DOCKER.md) - Install Docker
+3. [05-SECURITY-UPDATES.md](05-SECURITY-UPDATES.md) - Configure security
+4. [06-OPENCLAW-INSTALL.md](06-OPENCLAW-INSTALL.md) - Install OpenClaw
 
 ---
 

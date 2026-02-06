@@ -4,13 +4,13 @@ Configure your coding and reasoning AI models for optimal performance.
 
 ---
 
-## 🎁 MiniMax Referral Bonus
+##  MiniMax Referral Bonus
 
 > Get 10% off MiniMax coding plan: https://platform.minimax.io/subscribe/coding-plan?code=5eJqeeb1XH&source=link
 
 ---
 
-## 📦 Configuration File
+##  Configuration File
 
 Edit `~/.openclaw/openclaw.json`:
 
@@ -91,7 +91,7 @@ Edit `~/.openclaw/openclaw.json`:
 
 ---
 
-## 🎯 Model Selection Strategy
+##  Model Selection Strategy
 
 | Task Type | Recommended Model | Reason |
 |-----------|-------------------|--------|
@@ -104,7 +104,7 @@ Edit `~/.openclaw/openclaw.json`:
 
 ---
 
-## 🔑 Getting API Keys
+##  Getting API Keys
 
 ### MiniMax (Recommended for Coding)
 
@@ -122,7 +122,7 @@ Edit `~/.openclaw/openclaw.json`:
 
 ---
 
-## ✅ Verify Configuration
+##  Verify Configuration
 
 ```bash
 openclaw gateway restart
@@ -131,7 +131,7 @@ openclaw gateway status
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### API Key Invalid
 
@@ -149,6 +149,6 @@ Ensure model ID matches exactly what's available from the provider.
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[11-ONBOARDING.md](11-ONBOARDING.md)** — Configure your AI agent's personality and workflow
+**[11-ONBOARDING.md](11-ONBOARDING.md)** - Configure your AI agent's personality and workflow

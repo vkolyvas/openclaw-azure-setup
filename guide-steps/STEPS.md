@@ -1,4 +1,4 @@
-# ⚡ Quick Installation Commands
+#  Quick Installation Commands
 
 Copy and run these exact commands in order on your VPS.
 
@@ -90,7 +90,7 @@ EOF
 
 ---
 
-## 🎁 MiniMax Referral Bonus
+##  MiniMax Referral Bonus
 
 > Get 10% off MiniMax coding plan: https://platform.minimax.io/subscribe/coding-plan?code=5eJqeeb1XH&source=link
 

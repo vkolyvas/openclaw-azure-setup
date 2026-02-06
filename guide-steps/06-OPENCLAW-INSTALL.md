@@ -1,10 +1,10 @@
-# 6️⃣ Install OpenClaw
+# 6⃣ Install OpenClaw
 
 Install the OpenClaw AI gateway using npm.
 
 ---
 
-## 📦 Command
+##  Command
 
 ```bash
 curl -fsSL https://openclaw.ai/install.sh | bash -s -- --install-method npm
@@ -12,7 +12,7 @@ curl -fsSL https://openclaw.ai/install.sh | bash -s -- --install-method npm
 
 ---
 
-## 🔍 What This Does
+##  What This Does
 
 | Step | Purpose |
 |------|---------|
@@ -23,7 +23,7 @@ curl -fsSL https://openclaw.ai/install.sh | bash -s -- --install-method npm
 
 ---
 
-## ✅ Verify Installation
+##  Verify Installation
 
 ```bash
 openclaw --version
@@ -38,7 +38,7 @@ Gateway is running on port 18789
 
 ---
 
-## 📁 Installed Files
+##  Installed Files
 
 | Location | Purpose |
 |----------|---------|
@@ -49,7 +49,7 @@ Gateway is running on port 18789
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Installation Fails
 
@@ -74,6 +74,6 @@ openclaw gateway start
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[07-PATH.md](07-PATH.md)** — Add OpenClaw to PATH
+**[07-PATH.md](07-PATH.md)** - Add OpenClaw to PATH

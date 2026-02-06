@@ -1,10 +1,10 @@
-# 1️⃣2️⃣ Testing Your Setup
+# 1⃣2⃣ Testing Your Setup
 
 Verify that all components are working correctly.
 
 ---
 
-## ✅ Verification Checklist
+##  Verification Checklist
 
 ### 1. Gateway Status
 
@@ -46,7 +46,7 @@ curl -s -H "Authorization: token YOUR_GITHUB_TOKEN" https://api.github.com/user
 
 ---
 
-## 🎯 Test Prompts
+##  Test Prompts
 
 ### Coding Test
 
@@ -74,7 +74,7 @@ Create a Dockerfile for a Python Flask application
 
 ---
 
-## 📋 Success Criteria
+##  Success Criteria
 
 - [ ] Gateway is running
 - [ ] At least one channel is paired
@@ -84,7 +84,7 @@ Create a Dockerfile for a Python Flask application
 
 ---
 
-## ⚠️ Common Failures
+##  Common Failures
 
 ### No Response from AI
 
@@ -100,6 +100,6 @@ Create a Dockerfile for a Python Flask application
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[13-GITHUB.md](13-GITHUB.md)** — Complete GitHub integration setup
+**[13-GITHUB.md](13-GITHUB.md)** - Complete GitHub integration setup

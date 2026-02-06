@@ -1,10 +1,10 @@
-# 1️⃣1️⃣ Agent Onboarding
+# 1⃣1⃣ Agent Onboarding
 
 Configure your AI agent's personality, capabilities, and workflow guidelines.
 
 ---
 
-## 📦 Create Agent Profile
+##  Create Agent Profile
 
 Edit `~/.openclaw/workspace/AGENTS.md`:
 
@@ -59,14 +59,14 @@ Edit `~/.openclaw/workspace/AGENTS.md`:
 
 ---
 
-## 🔧 Other Configuration Files
+##  Other Configuration Files
 
-### SOUL.md — Your Agent's Identity
+### SOUL.md - Your Agent's Identity
 
 ```markdown
 # SOUL.md - Who You Are
 
-**Be genuinely helpful.** Skip the fluff — just help.
+**Be genuinely helpful.** Skip the fluff - just help.
 
 **Have opinions.** You're allowed to disagree and prefer things.
 
@@ -77,7 +77,7 @@ Edit `~/.openclaw/workspace/AGENTS.md`:
 **Remember you're a guest.** Respect the access you've been given.
 ```
 
-### TOOLS.md — Local Notes
+### TOOLS.md - Local Notes
 
 ```markdown
 # TOOLS.md - Local Notes
@@ -91,7 +91,7 @@ Edit `~/.openclaw/workspace/AGENTS.md`:
 
 ---
 
-## ✅ Verify Configuration
+##  Verify Configuration
 
 ```bash
 openclaw gateway restart
@@ -100,6 +100,6 @@ openclaw gateway restart
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[12-TESTING.md](12-TESTING.md)** — Verify your setup works correctly
+**[12-TESTING.md](12-TESTING.md)** - Verify your setup works correctly

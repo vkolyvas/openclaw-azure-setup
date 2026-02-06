@@ -1,10 +1,10 @@
-# 1️⃣5️⃣ Azure AI Foundry Setup
+# 1⃣5⃣ Azure AI Foundry Setup
 
 Create an Azure AI Foundry project and deploy Opus 4.6 or Kimi K2.5 models for advanced reasoning.
 
 ---
 
-## 🎯 Why Azure AI Foundry?
+##  Why Azure AI Foundry?
 
 | Model | Strengths | Best For |
 |-------|-----------|----------|
@@ -13,7 +13,7 @@ Create an Azure AI Foundry project and deploy Opus 4.6 or Kimi K2.5 models for a
 
 ---
 
-## 📦 Step 1: Create Azure Account
+##  Step 1: Create Azure Account
 
 1. Visit [Azure Portal](https://portal.azure.com)
 2. Sign in or create free account
@@ -21,7 +21,7 @@ Create an Azure AI Foundry project and deploy Opus 4.6 or Kimi K2.5 models for a
 
 ---
 
-## 📦 Step 2: Create AI Foundry Project
+##  Step 2: Create AI Foundry Project
 
 1. Go to [Azure AI Foundry](https://ai.azure.com)
 2. Click **New project**
@@ -33,7 +33,7 @@ Create an Azure AI Foundry project and deploy Opus 4.6 or Kimi K2.5 models for a
 
 ---
 
-## 📦 Step 3: Deploy Model
+##  Step 3: Deploy Model
 
 ### Deploy Opus 4.6
 
@@ -55,7 +55,7 @@ Create an Azure AI Foundry project and deploy Opus 4.6 or Kimi K2.5 models for a
 
 ---
 
-## 📦 Step 4: Get API Key
+##  Step 4: Get API Key
 
 1. In Azure portal, go to your **AI Foundry resource**
 2. Click **Keys and Endpoint**
@@ -64,7 +64,7 @@ Create an Azure AI Foundry project and deploy Opus 4.6 or Kimi K2.5 models for a
 
 ---
 
-## 📦 Step 5: Configure OpenClaw
+##  Step 5: Configure OpenClaw
 
 Edit `~/.openclaw/openclaw.json`:
 
@@ -108,7 +108,7 @@ Edit `~/.openclaw/openclaw.json`:
 
 ---
 
-## ✅ Verify Deployment
+##  Verify Deployment
 
 ```bash
 # Test API connection
@@ -131,7 +131,7 @@ openclaw gateway restart
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Authentication Failed
 
@@ -146,7 +146,7 @@ openclaw gateway restart
 
 ---
 
-## ✅ Success Criteria
+##  Success Criteria
 
 - [ ] Azure AI Foundry project created
 - [ ] Opus 4.6 deployed
@@ -156,6 +156,6 @@ openclaw gateway restart
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[12-TESTING.md](12-TESTING.md)** — Verify your setup works correctly
+**[12-TESTING.md](12-TESTING.md)** - Verify your setup works correctly

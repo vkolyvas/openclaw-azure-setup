@@ -1,10 +1,10 @@
-# 8️⃣ SSH Tunnel (Remote Access)
+# 8⃣ SSH Tunnel (Remote Access)
 
 Set up secure tunnel to access OpenClaw from your local machine.
 
 ---
 
-## 📦 Command (Run Locally)
+##  Command (Run Locally)
 
 ```bash
 ssh -N -L 18789:127.0.0.1:18789 username@your-vps-ip
@@ -12,7 +12,7 @@ ssh -N -L 18789:127.0.0.1:18789 username@your-vps-ip
 
 ---
 
-## 🔍 Command Breakdown
+##  Command Breakdown
 
 | Flag/Part | Purpose |
 |-----------|---------|
@@ -22,7 +22,7 @@ ssh -N -L 18789:127.0.0.1:18789 username@your-vps-ip
 
 ---
 
-## ✅ Verify Connection
+##  Verify Connection
 
 1. **Keep terminal running** with the SSH tunnel
 2. **Open browser** to: `http://127.0.0.1:18789`
@@ -30,7 +30,7 @@ ssh -N -L 18789:127.0.0.1:18789 username@your-vps-ip
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Connection Refused
 
@@ -64,7 +64,7 @@ ssh-copy-id username@your-vps-ip
 
 ---
 
-## 🔐 Security Note
+##  Security Note
 
 - The SSH tunnel is **encrypted** and secure
 - No need to open port 18789 on VPS firewall
@@ -72,6 +72,6 @@ ssh-copy-id username@your-vps-ip
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[09-PAIRING.md](09-PAIRING.md)** — Pair messaging channels (Telegram, WhatsApp, Discord)
+**[09-PAIRING.md](09-PAIRING.md)** - Pair messaging channels (Telegram, WhatsApp, Discord)

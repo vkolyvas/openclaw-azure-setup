@@ -1,10 +1,10 @@
-# 7️⃣ Configure PATH
+# 7⃣ Configure PATH
 
 Add OpenClaw to your PATH for global access.
 
 ---
 
-## 📦 Command
+##  Command
 
 ```bash
 echo 'export PATH="$PATH:$HOME/openclaw/bin"' >> ~/.bashrc
@@ -13,7 +13,7 @@ source ~/.bashrc
 
 ---
 
-## 🔍 What This Does
+##  What This Does
 
 | Command | Purpose |
 |---------|---------|
@@ -22,7 +22,7 @@ source ~/.bashrc
 
 ---
 
-## ✅ Verify Configuration
+##  Verify Configuration
 
 ```bash
 openclaw gateway status
@@ -37,7 +37,7 @@ Gateway is running on port 18789
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Command Not Found After Reboot
 
@@ -61,6 +61,6 @@ set -U fish_user_paths $HOME/openclaw/bin $fish_user_paths
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[08-SSH-TUNNEL.md](08-SSH-TUNNEL.md)** — Set up SSH tunnel for remote access
+**[08-SSH-TUNNEL.md](08-SSH-TUNNEL.md)** - Set up SSH tunnel for remote access

@@ -1,10 +1,10 @@
-# 1️⃣3️⃣ GitHub Integration
+# 1⃣3⃣ GitHub Integration
 
 Connect GitHub for repository management, issues, and PRs.
 
 ---
 
-## 📦 Create Auth Profile
+##  Create Auth Profile
 
 ```bash
 mkdir -p ~/.openclaw/agents/main/agent
@@ -23,18 +23,18 @@ EOF
 
 ---
 
-## 🔑 Generate GitHub Token
+##  Generate GitHub Token
 
 1. Go to **GitHub Settings** → **Developer Settings** → **Personal Access Tokens** → **Tokens (classic)**
 2. Generate new token with scopes:
-   - `repo` — Full control of private repositories
-   - `read:user` — Read user profile data
-   - `delete_repo` — Delete repositories (optional)
+   - `repo` - Full control of private repositories
+   - `read:user` - Read user profile data
+   - `delete_repo` - Delete repositories (optional)
 3. Copy and use in the config above
 
 ---
 
-## ✅ Verify Connection
+##  Verify Connection
 
 ```bash
 # Using GitHub CLI
@@ -46,7 +46,7 @@ curl -s -H "Authorization: token YOUR_TOKEN" https://api.github.com/user
 
 ---
 
-## 🎯 Example Commands
+##  Example Commands
 
 ### Create Repository
 
@@ -68,7 +68,7 @@ gh issue create --title "Bug found" --body "Description of the bug"
 
 ---
 
-## ✅ Success Criteria
+##  Success Criteria
 
 - [ ] Auth profile created
 - [ ] `gh auth status` shows authenticated
@@ -77,7 +77,7 @@ gh issue create --title "Bug found" --body "Description of the bug"
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Token Invalid
 
@@ -92,6 +92,6 @@ Ensure token has required scopes (`repo` for private repos)
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[14-HOMEBREW.md](14-HOMEBREW.md)** — Install Homebrew (optional)
+**[14-HOMEBREW.md](14-HOMEBREW.md)** - Install Homebrew (optional)

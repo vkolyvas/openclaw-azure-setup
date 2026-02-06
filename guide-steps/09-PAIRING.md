@@ -1,10 +1,10 @@
-# 9️⃣ Pair Messaging Channels
+# 9⃣ Pair Messaging Channels
 
 Connect Telegram, WhatsApp, or Discord to start messaging your AI agent.
 
 ---
 
-## 📱 Telegram Setup
+##  Telegram Setup
 
 ### 1. Create a Bot
 
@@ -47,7 +47,7 @@ openclaw pairing approve telegram
 
 ---
 
-## 📞 WhatsApp Setup
+##  WhatsApp Setup
 
 ### 1. Configure OpenClaw
 
@@ -82,7 +82,7 @@ openclaw pairing approve whatsapp
 
 ---
 
-## 💬 Discord Setup
+##  Discord Setup
 
 ### 1. Create Discord Application
 
@@ -132,7 +132,7 @@ openclaw pairing approve discord
 
 ---
 
-## ✅ Success Criteria
+##  Success Criteria
 
 | Channel | Paired When... |
 |---------|----------------|
@@ -142,7 +142,7 @@ openclaw pairing approve discord
 
 ---
 
-## ⚠️ Common Issues
+##  Common Issues
 
 ### Telegram: Bot Token Invalid
 
@@ -169,6 +169,6 @@ openclaw pairing approve whatsapp
 
 ---
 
-## 🎯 Next Step
+##  Next Step
 
-**[10-MODELS.md](10-MODELS.md)** — Configure AI models (MiniMax, Claude, OpenAI)
+**[10-MODELS.md](10-MODELS.md)** - Configure AI models (MiniMax, Claude, OpenAI)
