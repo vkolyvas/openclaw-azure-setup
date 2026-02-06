@@ -7,16 +7,16 @@
 ## 🎯 Why These Projects?
 
 Each project is designed to:
-- ✅ Practice TDD workflow
-- ✅ Use multiple programming languages
-- ✅ Leverage Docker for containerization
-- ✅ Integrate with AI coding assistant
+-  Practice TDD workflow
+-  Use multiple programming languages
+-  Leverage Docker for containerization
+-  Integrate with AI coding assistant
 
 ---
 
-## 📊 Project Ideas
+##  Project Ideas
 
-### 1. 📊 Portfolio Tracker — Python/Django
+### 1.  Portfolio Tracker - Python/Django
 
 | Aspect | Details |
 |--------|---------|
@@ -27,7 +27,7 @@ Each project is designed to:
 
 ---
 
-### 2. 🤖 AI Code Reviewer — Node.js/TypeScript
+### 2.  AI Code Reviewer - Node.js/TypeScript
 
 | Aspect | Details |
 |--------|---------|
@@ -38,7 +38,7 @@ Each project is designed to:
 
 ---
 
-### 3. 📝 Note-Taking App — Vue.js/Node.js
+### 3.  Note-Taking App - Vue.js/Node.js
 
 | Aspect | Details |
 |--------|---------|
@@ -49,7 +49,7 @@ Each project is designed to:
 
 ---
 
-### 4. 💬 Chat Application — Elixir/Phoenix
+### 4.  Chat Application - Elixir/Phoenix
 
 | Aspect | Details |
 |--------|---------|
@@ -60,7 +60,7 @@ Each project is designed to:
 
 ---
 
-### 5. 🔐 Password Manager — Rust
+### 5.  Password Manager - Rust
 
 | Aspect | Details |
 |--------|---------|
@@ -71,7 +71,7 @@ Each project is designed to:
 
 ---
 
-### 6. 📈 ML Pipeline — Python/FastAPI
+### 6.  ML Pipeline - Python/FastAPI
 
 | Aspect | Details |
 |--------|---------|
@@ -82,7 +82,7 @@ Each project is designed to:
 
 ---
 
-### 7. 🌐 API Gateway — Go
+### 7.  API Gateway - Go
 
 | Aspect | Details |
 |--------|---------|
@@ -93,7 +93,7 @@ Each project is designed to:
 
 ---
 
-### 8. 📱 Task Manager — Kotlin/Spring Boot
+### 8.  Task Manager - Kotlin/Spring Boot
 
 | Aspect | Details |
 |--------|---------|
@@ -104,7 +104,7 @@ Each project is designed to:
 
 ---
 
-### 9. 🎵 Music Streaming API — Ruby on Rails
+### 9. 🎵 Music Streaming API - Ruby on Rails
 
 | Aspect | Details |
 |--------|---------|
@@ -115,7 +115,7 @@ Each project is designed to:
 
 ---
 
-### 10. 🔗 URL Shortener — Java/Quarkus
+### 10. 🔗 URL Shortener - Java/Quarkus
 
 | Aspect | Details |
 |--------|---------|
@@ -163,7 +163,7 @@ pytest tests/
 
 ---
 
-## 📦 Recommended Docker Setup
+##  Recommended Docker Setup
 
 ```yaml
 # docker-compose.yml

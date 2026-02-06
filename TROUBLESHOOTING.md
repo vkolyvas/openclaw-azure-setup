@@ -1,10 +1,10 @@
-# 🐛 Troubleshooting
+# Troubleshooting
 
 Common issues and solutions for OpenClaw setup.
 
 ---
 
-## 🚨 Gateway Issues
+## Gateway Issues
 
 ### Gateway Won't Start
 
@@ -37,7 +37,7 @@ openclaw configure --reset
 
 ---
 
-## 🐳 Docker Issues
+## Docker Issues
 
 ### Docker Not Running
 
@@ -64,7 +64,7 @@ newgrp docker
 
 ---
 
-## 🌐 SSH Tunnel Issues
+## SSH Tunnel Issues
 
 ### Connection Refused
 
@@ -90,7 +90,7 @@ Host your-vps-ip
 
 ---
 
-## 📱 Channel Pairing Issues
+## Channel Pairing Issues
 
 ### Telegram Bot Not Responding
 
@@ -119,7 +119,7 @@ echo $LINES $COLUMNS
 
 ---
 
-## 🤖 AI Model Issues
+## AI Model Issues
 
 ### API Key Invalid
 
@@ -142,7 +142,7 @@ curl -s -H "Authorization: Bearer YOUR_KEY" https://api.openai.com/v1/models
 
 ---
 
-## 📊 Get Help
+## Get Help
 
 ### View Logs
 
