@@ -9,7 +9,7 @@ A comprehensive guide to deploying **OpenClaw** — your AI-powered coding assis
 ## 📋 Table of Contents
 
 ### 🚀 Quick Start
-- [Quick Installation Commands](STEPS.md) — Copy & run these exact commands
+- [STEPS.md](guide-steps/STEPS.md) — Copy & run all commands
 
 ### 📦 Step-by-Step Guide
 
@@ -26,15 +26,16 @@ All step-by-step instructions are in the [`guide-steps/`](guide-steps/) folder:
 | [guide-steps/07-PATH.md](guide-steps/07-PATH.md) | Add OpenClaw to PATH |
 | [guide-steps/08-SSH-TUNNEL.md](guide-steps/08-SSH-TUNNEL.md) | Remote access setup |
 | [guide-steps/09-PAIRING.md](guide-steps/09-PAIRING.md) | Telegram, WhatsApp, Discord |
-| [guide-steps/10-MODELS.md](guide-steps/10-MODELS.md) | Configure MiniMax, Claude, OpenAI |
+| [guide-steps/10-MODELS.md](guide-steps/10-MODELS.md) | Configure MiniMax, Azure AI Foundry |
 | [guide-steps/11-ONBOARDING.md](guide-steps/11-ONBOARDING.md) | Configure your AI agent |
 | [guide-steps/12-TESTING.md](guide-steps/12-TESTING.md) | Verify everything works |
 | [guide-steps/13-GITHUB.md](guide-steps/13-GITHUB.md) | Connect GitHub |
 | [guide-steps/14-HOMEBREW.md](guide-steps/14-HOMEBREW.md) | Optional: Install Homebrew |
+| [guide-steps/15-AZURE-AI-FOUNDRY.md](guide-steps/15-AZURE-AI-FOUNDRY.md) | Azure AI Foundry API setup |
 
 ### 📚 Additional Resources
-- [Project Ideas](PROJECT-IDEAS.md) — 10 POC project ideas for TDD
-- [Troubleshooting](TROUBLESHOOTING.md) — Common issues & solutions
+- [PROJECT-IDEAS.md](PROJECT-IDEAS.md) — 10 POC project ideas for TDD
+- [TROUBLESHOOTING.md](TROUBLESHOOTING.md) — Common issues & solutions
 
 ---
 
@@ -66,7 +67,7 @@ This guide is designed for **power users** who want to:
 
 | Component | Technology |
 |----------|------------|
-| **AI Coding** | MiniMax M2.1 (primary), o1-pro (reasoning) |
+| **AI Coding** | MiniMax M2.1 (primary), Azure AI Foundry (Opus 4.6, Kimi K2.5) |
 | **Messaging** | Telegram, WhatsApp, Discord |
 | **Infrastructure** | Azure VPS (Standard_E6as_v6) |
 | **Containerization** | Docker + Docker Compose |
@@ -78,22 +79,22 @@ This guide is designed for **power users** who want to:
 
 1. **Complete installation commands** — Copy & paste ready
 2. **MiniMax M2.1 integration** — Perfect for multi-coding
-3. **Channel pairing guides** — Telegram, WhatsApp, Discord
-4. **AI model configuration** — Optimal settings for coding + reasoning
-5. **10 project ideas** — For TDD development workflow
+3. **Azure AI Foundry setup** — Opus 4.6 and Kimi K2.5 models
+4. **Channel pairing guides** — Telegram, WhatsApp, Discord
+5. **AI model configuration** — Optimal settings for coding + reasoning
+6. **10 project ideas** — For TDD development workflow
 
 ---
 
 ## 🚀 Quick Start
 
-Copy and run all commands from [STEPS.md](STEPS.md) — Includes steps 1-14 with one-click copy blocks.
+Copy and run all commands from [guide-steps/STEPS.md](guide-steps/STEPS.md) — Includes steps 1-15 with one-click copy blocks.
 
 ---
 
 ## 📞 Support
 
 - [OpenClaw Documentation](https://docs.openclaw.ai/)
-- [GitHub Issues](https://github.com/vkolyvas/openclaw-azure-setup/issues)
 
 ---
 
