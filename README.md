@@ -1,4 +1,5 @@
 # OpenClaw VPS Setup Guide
+<img width="1400" height="815" alt="Image" src="https://github.com/user-attachments/assets/e5a982fe-a85a-48d6-94fb-dfca9756a062" />
 
 > **Special Offer:** Get 10% off MiniMax coding plan using this referral link: https://platform.minimax.io/subscribe/coding-plan?code=5eJqeeb1XH&source=link
 
