@@ -12,20 +12,25 @@ A comprehensive guide to deploying **OpenClaw** — your AI-powered coding assis
 - [Quick Installation Commands](STEPS.md) — Copy & run these exact commands
 
 ### 📦 Step-by-Step Guide
-1. [Prerequisites](01-PREREQUISITES.md) — What you need before starting
-2. [VPS Requirements](02-VPS-REQUIREMENTS.md) — Azure VM specifications
-3. [System Update](03-SYSTEM-UPDATE.md) — Update Ubuntu packages
-4. [Docker Installation](04-DOCKER.md) — Install Docker Engine
-5. [Security Updates](05-SECURITY-UPDATES.md) — Configure automatic updates
-6. [OpenClaw Installation](06-OPENCLAW-INSTALL.md) — Install OpenClaw
-7. [PATH Configuration](07-PATH.md) — Add OpenClaw to PATH
-8. [SSH Tunnel](08-SSH-TUNNEL.md) — Remote access setup
-9. [Channel Pairing](09-PAIRING.md) — Telegram, WhatsApp, Discord
-10. [AI Models](10-MODELS.md) — Configure MiniMax, Claude, OpenAI
-11. [Agent Onboarding](11-ONBOARDING.md) — Configure your AI agent
-12. [Testing](12-TESTING.md) — Verify everything works
-13. [GitHub Integration](13-GITHUB.md) — Connect GitHub
-14. [Homebrew](14-HOMEBREW.md) — Optional: Install Homebrew
+
+All step-by-step instructions are in the [`guide-steps/`](guide-steps/) folder:
+
+| File | Description |
+|------|-------------|
+| [guide-steps/01-PREREQUISITES.md](guide-steps/01-PREREQUISITES.md) | What you need before starting |
+| [guide-steps/02-VPS-REQUIREMENTS.md](guide-steps/02-VPS-REQUIREMENTS.md) | Azure VM specifications |
+| [guide-steps/03-SYSTEM-UPDATE.md](guide-steps/03-SYSTEM-UPDATE.md) | Update Ubuntu packages |
+| [guide-steps/04-DOCKER.md](guide-steps/04-DOCKER.md) | Install Docker Engine |
+| [guide-steps/05-SECURITY-UPDATES.md](guide-steps/05-SECURITY-UPDATES.md) | Configure automatic updates |
+| [guide-steps/06-OPENCLAW-INSTALL.md](guide-steps/06-OPENCLAW-INSTALL.md) | Install OpenClaw |
+| [guide-steps/07-PATH.md](guide-steps/07-PATH.md) | Add OpenClaw to PATH |
+| [guide-steps/08-SSH-TUNNEL.md](guide-steps/08-SSH-TUNNEL.md) | Remote access setup |
+| [guide-steps/09-PAIRING.md](guide-steps/09-PAIRING.md) | Telegram, WhatsApp, Discord |
+| [guide-steps/10-MODELS.md](guide-steps/10-MODELS.md) | Configure MiniMax, Claude, OpenAI |
+| [guide-steps/11-ONBOARDING.md](guide-steps/11-ONBOARDING.md) | Configure your AI agent |
+| [guide-steps/12-TESTING.md](guide-steps/12-TESTING.md) | Verify everything works |
+| [guide-steps/13-GITHUB.md](guide-steps/13-GITHUB.md) | Connect GitHub |
+| [guide-steps/14-HOMEBREW.md](guide-steps/14-HOMEBREW.md) | Optional: Install Homebrew |
 
 ### 📚 Additional Resources
 - [Project Ideas](PROJECT-IDEAS.md) — 10 POC project ideas for TDD
